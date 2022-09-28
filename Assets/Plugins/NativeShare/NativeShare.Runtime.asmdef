@@ -1,3 +1,16 @@
-﻿{
-	"name": "NativeShare.Runtime"
+{
+    "name": "NativeShare.Runtime",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

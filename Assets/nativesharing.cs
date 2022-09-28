@@ -50,7 +50,7 @@ public class nativesharing : MonoBehaviour {
 		// To avoid memory leaks
 		Destroy( ss );
 
-		new NativeShare().AddFile( filePath ).SetSubject( "Subject goes here" ).SetText( "#museohistoricodepalacionacional" ).Share();
+		new NativeShare().AddFile( filePath ).SetSubject( "my tatoo en: " ).SetText( "#floresnegras" ).Share();
 
 		// Share on WhatsApp only, if installed (Android only)
 		//if( NativeShare.TargetExists( "com.whatsapp" ) )
