@@ -130,6 +130,19 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1184163829, guid: 8ce5dfe4cb6b24642b68cb2125a3004e, type: 3}
+      propertyPath: m_Text
+      value: Compartir...
+      objectReference: {fileID: 0}
+    - target: {fileID: 1812440021, guid: 8ce5dfe4cb6b24642b68cb2125a3004e, type: 3}
+      propertyPath: m_Text
+      value: 'Clip guardado en:  '
+      objectReference: {fileID: 0}
+    - target: {fileID: 362720335571670333, guid: 8ce5dfe4cb6b24642b68cb2125a3004e,
+        type: 3}
+      propertyPath: m_Text
+      value: SI
+      objectReference: {fileID: 0}
     - target: {fileID: 734396427569978620, guid: 8ce5dfe4cb6b24642b68cb2125a3004e,
         type: 3}
       propertyPath: m_Name
@@ -139,6 +152,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 782273115753175158, guid: 8ce5dfe4cb6b24642b68cb2125a3004e,
+        type: 3}
+      propertyPath: m_Text
+      value: "\xBFEstas seguro de eliminar todos los clips capturados?"
       objectReference: {fileID: 0}
     - target: {fileID: 1235676414210299381, guid: 8ce5dfe4cb6b24642b68cb2125a3004e,
         type: 3}
@@ -1238,7 +1256,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1493127163
 RectTransform:
   m_ObjectHideFlags: 0
