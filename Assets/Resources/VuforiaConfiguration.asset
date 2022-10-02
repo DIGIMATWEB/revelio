@@ -21,7 +21,7 @@ MonoBehaviour:
     maxSimultaneousImageTargets: 1
     virtualSceneScaleFactor: 1
     modelTargetRecoWhileExtendedTracked: 1
-    shareRecordingsInITunes: 0
+    shareRecordingsInITunes: 1
     logLevel: 0
     version: 10.10.2
     eulaAcceptedVersions: '{"Values":["0.0","10.10"]}'
@@ -41,8 +41,8 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
-    mSequencePath: 
-    playModeType: 0
+    mSequencePath: /storage/emulated/0/Android/data/com.DIGIMAT.Revelio
+    playModeType: 2
   webcam:
     renderTextureLayer: 30
   packageInformation:
