@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tat" size="512.000000 790.236084" />
+    <ImageTarget name="pintar" size="5.000000 6.482713" />
+  </Tracking>
+</QCARConfig>
